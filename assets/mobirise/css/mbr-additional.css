@@ -1443,7 +1443,7 @@ body {
   }
 }
 .cid-rq1IRSZSlJ .mbr-text {
-  color: #767676;
+  color: #232323;
   text-align: right;
 }
 .cid-rq1IRSZSlJ .mbr-text B {
@@ -1728,6 +1728,72 @@ body {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-rrF4t566xa {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rrF4t566xa .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 1.5rem;
+}
+.cid-rrF4t566xa div.b {
+  padding-top: 2rem;
+}
+.cid-rrF4t566xa H2 {
+  text-align: center;
+}
+.cid-rrF4t566xa .mbr-section-subtitle {
+  text-align: center;
+}
+#custom-html-b {
+  /* Type valid CSS here */
+}
+#custom-html-b div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-b p {
+  font-size: 60px;
+  color: #777;
+}
+#custom-html-b #mapcontainer {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+#custom-html-b #mymap {
+  padding: 0px;
+  width: 600px;
+  height: 400px;
+}
+#custom-html-b .leaflet-pane {
+  padding: 0px;
+  margin: 0px;
+}
+#custom-html-b .leaflet-top {
+  padding: 0px;
+  margin: 0px;
+}
+#custom-html-b .leaflet-bottom {
+  padding: 0px;
+  margin: 0px;
+}
+#custom-html-b .leaflet-map-pane {
+  padding: 0px;
+  margin: 0px;
+}
+#custom-html-b .leaflet-control-container {
+  padding: 0px;
+  margin: 0px;
+}
+#custom-html-b .leaflet-control {
+  padding: 0.5px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 .cid-roIA9mV5jQ {
   padding-top: 30px;
